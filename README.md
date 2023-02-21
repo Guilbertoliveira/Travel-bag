@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+Project to expand knowledge in javascript
