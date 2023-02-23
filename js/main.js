@@ -1,4 +1,5 @@
 const formulario = document.querySelector('#novoItem');
+const listaItens = [];
 
 formulario.addEventListener("submit", (evento)=> {
     evento.preventDefault();
@@ -27,7 +28,14 @@ function criaElemento (nome, quantidade) {
 
     lista.appendChild(novoItem);
 
-    localStorage.setItem("chavenome", nome);
-    localStorage.setItem("chavequantidade", quantidade);
+    const itemAtual = {
+        "nome": nome,
+        "quantidade": quantidade
+    }
+
+    listaItens.push(itemAtual);
+    
+    localStorage.setItem("chaveitens", JSON.stringify(listaItens));
+   
 }
 
