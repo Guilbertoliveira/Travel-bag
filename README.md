@@ -1,6 +1,11 @@
+<div align="center">
+<h1 > TravelBag </h1>
+<img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/Guilbertoliveira/TravelBag" />
+<img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/Guilbertoliveira/TravelBag" />
+<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Guilbertoliveira/TravelBag" />
+<img alt="Github License" src="https://img.shields.io/github/license/Guilbertoliveira/TravelBag" />
 
-<h1 align="center"> TravelBag </h1>
-
+</div>
 <h2 id="status-do-projeto">:hammer:Project Status:hammer:</h2>
 
 <h2 id="descricao-projeto">Project description</h2>
