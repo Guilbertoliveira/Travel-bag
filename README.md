@@ -9,7 +9,7 @@
 <h2 id="status-do-projeto">:hammer:Project Status:hammer:</h2>
 
 <h2 id="descricao-projeto">Project description</h2>
-Project to expand knowledge in javascript
+Project to expand knowledge in javascript, using DOM and localStorage.
 
 <h2 id="versaomobile">Version Mobile</h2>
 
