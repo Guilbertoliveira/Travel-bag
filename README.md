@@ -21,4 +21,4 @@ Project to expand knowledge in javascript, using DOM and localStorage.
 <h2>Technologies used</h2>
     
 <h2> Project link </h2>
-
+<a href="https://travel-bag-lovat.vercel.app/">Link for project</a>
