@@ -1,5 +1,33 @@
+:root {
+    --label-icon: url("https://caelum-online-public.s3.amazonaws.com/1369-alura-mais-dark-mode/lua.png");
+    --cor-de-fundo: radial-gradient(farthest-corner at right top,#21A09D, #06182D);
+
+}
+
+.mudar-tema {
+    background: var(--label-icon);
+    background-size: 40px;
+    padding: 20px;
+    background-repeat: no-repeat;
+    position: absolute;
+   cursor: pointer;
+   top: 10px;
+   left: 10px;
+}
+
+#btn {
+    display: none;
+}
+
+.dark-mode {
+    --cor-de-fundo: #021a32;
+
+}
+body {
+    background: var(--cor-de-fundo);
+
+}
 html {
-    background: radial-gradient(farthest-corner at right top,#21A09D, #06182D);
     height: 100%;
     font-family: 'Roboto', cursive;
 }
@@ -143,4 +171,12 @@ html {
         flex-wrap: wrap;
         padding: 0px;
     }
+
+  
+
+    .item {
+        word-break: break-all;
+    }
+    
+   
 }
