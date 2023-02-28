@@ -8,13 +8,11 @@
 
 </div>
 <h2 id="status-do-projeto">:hammer:Project Status:hammer:</h2>
-<p>Project in constant updates.</p>
+<p>Project has improvements to be made but the main one was finalized.</p>
 <h2 id="descricao-projeto">Project description</h2>
 Project to expand knowledge in javascript, using DOM and localStorage.
 
 <h2 id="versaomobile">Version Mobile</h2>
-
-<h2>Version Tablet</h2>
 
 <h2>Version Desktop</h2>
 
