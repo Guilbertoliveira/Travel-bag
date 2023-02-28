@@ -13,6 +13,10 @@ formulario.addEventListener("submit", (evento)=> {
         "nome": nome.value,
         "quantidade": quantidade.value
     }
+    const existe = listaItens.find(elemento => elemento.nome === nome.value);
+    if(existe) {
+        console.log('existe');
+    }
 
     criaElemento(itemAtual);
 
