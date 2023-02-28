@@ -15,7 +15,7 @@ Project to expand knowledge in javascript, using DOM and localStorage.
 <h2 id="versaomobile">Version Mobile</h2>
 
 <h2>Version Desktop</h2>
-
+<img src="https://user-images.githubusercontent.com/41201436/221730224-1dfbbce7-6eb0-4bef-8a79-f5145888597f.gif">
 <h2>Technologies used</h2>
 <p> 
 <p>
@@ -24,3 +24,4 @@ Project to expand knowledge in javascript, using DOM and localStorage.
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="55" title="JavaScript"/> </p>
 <h2> Project link </h2>
 <a href="https://travel-bag-lovat.vercel.app/">Link for project</a>
+
