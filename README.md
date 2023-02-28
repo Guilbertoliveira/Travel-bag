@@ -10,7 +10,7 @@
 <h2 id="status-do-projeto">:hammer:Project Status:hammer:</h2>
 <p>Project has improvements to be made but the main one was finalized.</p>
 <h2 id="descricao-projeto">Project description</h2>
-Project to expand knowledge in javascript, using DOM and localStorage.
+Project to expand knowledge in javascript, using DOM and localStorage + night mode.
 
 <h2 id="versaomobile">Version Mobile</h2>
 <img src="https://user-images.githubusercontent.com/41201436/221730654-391af007-6df2-4de8-9747-fadc43a29db2.gif">
