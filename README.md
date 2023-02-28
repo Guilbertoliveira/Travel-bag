@@ -23,7 +23,11 @@ Project to expand knowledge in javascript, using DOM and localStorage + night mo
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="55" title="Visual code"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="55" title="JavaScript"/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="55" title="CSS" /></p>
+        
+<h2>Nigth Mode</h2>
+<img src="https://user-images.githubusercontent.com/41201436/221948059-eac173f8-bfa8-4d26-a55d-6c29e9d62f15.png">
 <h2> Project link </h2>
 <a href="https://travel-bag-lovat.vercel.app/">Link for project</a>
+
 
 
